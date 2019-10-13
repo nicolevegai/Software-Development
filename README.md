@@ -3,10 +3,10 @@
 ## This is my Software Development Repository for SW Class
 
 #### Files Included:
-* SRC. 
-  * Main.java
-* gitignore
-* Readme
+* [SRC.](https://github.com/nicolevegai/Software-Development/tree/master/src) 
+  * [Main.java](https://github.com/nicolevegai/Software-Development/blob/master/src/Main.java)
+* [gitignore](https://github.com/nicolevegai/Software-Development/blob/master/.gitignore)
+* [Readme](https://github.com/nicolevegai/Software-Development/blob/master/README.md)
 
 
 The programming language used in this repository is [Java](https://en.wikipedia.org/wiki/Java_(programming_language))  
