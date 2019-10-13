@@ -6,6 +6,6 @@
 * gitignore
 
 
-_Made by:_ Nicole Vega Izurieta..
+_Made by:_ Nicole Vega Izurieta.  
 _Collaborator:_ Jose Luis Martin 
 
