@@ -1,6 +1,6 @@
 # Software Development
 
-## This is my Software Development Repository for SW Class
+## This is my Repository for Software Development Class
 
 #### Files Included:
 * [SRC.](https://github.com/nicolevegai/Software-Development/tree/master/src) 
