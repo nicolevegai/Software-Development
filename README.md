@@ -3,7 +3,8 @@
 ## This is my Software Development Repository for SW Class
 
 #### Files Included:
-* SRC
+* SRC. 
+  * Main.java
 * gitignore
 * Readme
 
